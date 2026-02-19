@@ -7,6 +7,10 @@
 
 A PyTorch package for **uncertainty quantification** in regression models using conformal prediction. Provides distribution-free, finite-sample coverage guarantees with support for **CUDA**, **MPS** (Apple Silicon), and **CPU**.
 
+<img width="758" height="660" alt="image" src="https://github.com/user-attachments/assets/76cd28da-9884-4dbb-badf-64b687e9995d" />
+
+
+
 ## Features
 
 - 🎯 **Scaled Conformal Prediction (CP)**: Distance-based scaling for adaptive intervals
