@@ -1,4 +1,4 @@
-# Local CP: Conformal Prediction for PyTorch
+# Local CP: Local Conformal Prediction (with Local Neural Kernel) for PyTorch
 
 [![arXiv](https://img.shields.io/badge/arXiv-2509.13717-b31b1b.svg)](https://arxiv.org/abs/2509.13717)
 [![Python 3.8+](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/downloads/)
